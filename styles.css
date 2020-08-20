@@ -1,0 +1,19 @@
+#section_1{
+    text-align: center;
+}
+#section_2{
+    margin: 0 auto;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#main_image{
+    cursor: pointer;
+}
+.images{
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+    cursor: pointer;
+}
